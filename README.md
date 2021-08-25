@@ -1,2 +1,0 @@
-# bot-telegram-arturzuza
-code
